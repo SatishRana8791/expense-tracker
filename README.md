@@ -4,7 +4,7 @@ A simple and intuitive expense tracking application built with vanilla JavaScrip
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://your-username.vercel.app)**  
+**[View Live Demo]((https://expense-tracker-woad-zeta.vercel.app)
 *(Link will be updated after deployment)*
 
 ## 📸 Screenshots
