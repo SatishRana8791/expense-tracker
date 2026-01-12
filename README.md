@@ -5,11 +5,11 @@ A simple and intuitive expense tracking application built with vanilla JavaScrip
 ## 🚀 Live Demo
 
 **[View Live Demo]((https://expense-tracker-woad-zeta.vercel.app)
-*(Link will be updated after deployment)*
+
 
 ## 📸 Screenshots
 
-![Expense Tracker Interface](https://via.placeholder.com/800x400/187ca2/ffffff?text=Expense+Tracker+Screenshot)  
+![Expense Tracker Interface](images/screenshot.png)  
 *(Replace with actual screenshot after deployment)*
 
 ## ✨ Features
